@@ -1,0 +1,14 @@
+"Mis Documentos" C:\
+"Mis Archivos Recibidos" "Mis Documentos"
+libro1.xlsmar empresa
+Dolores_de_niño.txt conversaciones
+empresa "Contabilidad Paralela"
+"Hojas de Cálculo" "Mis Documentos"
+"Contabilidad Paralela" "Mis Documentos"
+"mi foto en la playa.jpg" "Mis Documentos"
+programacion "Contabilidad Paralela"
+Yo_borracho.jpg "Mis Archivos Recibidos"
+conversaciones programacion
+Hoja.txt "Mis Documentos"
+Nombres.txt "Mis Documentos"
+Ejemplo.txt C:\

@@ -1,0 +1,18 @@
+HAIRY PETER S.A.
+AAAANMLO
+Ciudad
+
+  Despues de un analisis detallado de cada movimiento efectivo realizado en la
+6 semana se obtuvieron los siguientes datos: 
+
+
+	Unidades producidas: 15
+	Unidades vendidas: 4
+	Utilidad Operacional: 5
+	Utilidad neta: 5
+	Suma Ventas Netas(Suma Fila): 10
+	Gastos Netos (Suma Columna): 14
+
+Cordial Saludo,
+
+Departamento de Finanzas

@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1448954358 source:j:\proyecto pc\proyecto\adicional.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"HojaDeCalculo.h"
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+
+1448790004 source:j:\proyecto pc\proyecto\lista.cpp
+	"Lista.h"
+
+1448690026 j:\proyecto pc\proyecto\lista.h
+	<iostream>
+	<cstdlib>
+
+1448953824 source:j:\proyecto pc\proyecto\main.cpp
+	<iostream>
+	<cstring>
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+	"HojaDeCalculo.h"
+
+1447129672 j:\proyecto pc\proyecto\adicional.cpp
+	<Adicional.h>
+
+1448790004 j:\proyecto pc\proyecto\lista.cpp
+	"Lista.h"
+
+1448918032 j:\proyecto pc\proyecto\adicional.h
+	"lista.h"
+
+1448928324 source:j:\proyecto pc\proyecto\cadena.cpp
+	"Cadena.h"
+	<iostream>
+
+1448917664 j:\proyecto pc\proyecto\cadena.h
+
+1448953194 source:j:\proyecto pc\proyecto\hojadecalculo.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<stdlib.h>
+	"Adicional.h"
+
+1448917868 j:\proyecto pc\proyecto\hojadecalculo.h
+	"Adicional.h"
+
+1449017803 source:c:\users\pablo\documents\pc\proyecto\adicional.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"HojaDeCalculo.h"
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+
+1449017371 c:\users\pablo\documents\pc\proyecto\hojadecalculo.h
+	"Adicional.h"
+
+1448972032 c:\users\pablo\documents\pc\proyecto\adicional.h
+	"lista.h"
+
+1448744026 c:\users\pablo\documents\pc\proyecto\lista.h
+	<iostream>
+	<cstdlib>
+
+1448844004 c:\users\pablo\documents\pc\proyecto\lista.cpp
+	"Lista.h"
+
+1448971664 c:\users\pablo\documents\pc\proyecto\cadena.h
+
+1448982324 source:c:\users\pablo\documents\pc\proyecto\cadena.cpp
+	"Cadena.h"
+	<iostream>
+
+1449017371 source:c:\users\pablo\documents\pc\proyecto\hojadecalculo.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<stdlib.h>
+	"Adicional.h"
+
+1448844004 source:c:\users\pablo\documents\pc\proyecto\lista.cpp
+	"Lista.h"
+
+1449015631 source:c:\users\pablo\documents\pc\proyecto\main.cpp
+	<iostream>
+	<cstring>
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+	"HojaDeCalculo.h"
+
+1449069626 source:c:\users\sala_a\documents\proyecto sustentacion\adicional.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	"HojaDeCalculo.h"
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+
+1449069654 c:\users\sala_a\documents\proyecto sustentacion\hojadecalculo.h
+	"Adicional.h"
+
+1449067532 c:\users\sala_a\documents\proyecto sustentacion\adicional.h
+	"lista.h"
+
+1448744026 c:\users\sala_a\documents\proyecto sustentacion\lista.h
+	<iostream>
+	<cstdlib>
+
+1448844004 c:\users\sala_a\documents\proyecto sustentacion\lista.cpp
+	"Lista.h"
+
+1449066813 c:\users\sala_a\documents\proyecto sustentacion\cadena.h
+
+1449066813 source:c:\users\sala_a\documents\proyecto sustentacion\cadena.cpp
+	"Cadena.h"
+	<iostream>
+
+1449070259 source:c:\users\sala_a\documents\proyecto sustentacion\hojadecalculo.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstring>
+	<stdlib.h>
+	"Adicional.h"
+
+1448844004 source:c:\users\sala_a\documents\proyecto sustentacion\lista.cpp
+	"Lista.h"
+
+1449067521 source:c:\users\sala_a\documents\proyecto sustentacion\main.cpp
+	<iostream>
+	<cstring>
+	"Lista.cpp"
+	"Adicional.h"
+	"Cadena.h"
+	"HojaDeCalculo.h"
+
